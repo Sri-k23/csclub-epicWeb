@@ -1,3 +1,3 @@
 # csclub_epic_web
 
-This is the development repo for EPiC website. 
+This is the old development repo of EPiC website. 
